@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageConvolver", "ImageConvolver.csproj", "{235FAAF2-FBFE-4CC2-9B2C-948E6C7D12E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{235FAAF2-FBFE-4CC2-9B2C-948E6C7D12E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{235FAAF2-FBFE-4CC2-9B2C-948E6C7D12E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{235FAAF2-FBFE-4CC2-9B2C-948E6C7D12E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{235FAAF2-FBFE-4CC2-9B2C-948E6C7D12E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {119D3A5E-E708-4044-91AF-E6300F63877C}
+	EndGlobalSection
+EndGlobal
